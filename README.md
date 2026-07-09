@@ -23,7 +23,7 @@ In my free time, I play games and watch films. Also, I'm absolutely obsessed wit
 | **Python** | 🟡 Beginner | Wrote simple algorithms |
 | **Java** | 🟡 Beginner | Familiar with syntax |
 | **C# / .NET** | 🟡 Beginner | Tried to figure it out 😅 |
-| **Git / GitHub** | 🟢 Intermediate | Clone, commit, push — I do it all |
+| **Git / GitHub** | 🟡 Beginne | Clone, commit, push — I do it all |
 | **Postman** | 🟡 Beginner | Learning API testing |
 | **DevTools** | 🟡 Beginner | Exploring how to find browser bugs |
 | **API** | 🟡 Beginner | I know what it is, still learning |
