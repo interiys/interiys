@@ -9,7 +9,7 @@
 I'm Denis, a student who started as a developer but realized that **breaking** things is way more fun than building them! 😈  
 I'm heading into **QA Engineering** to find bugs where no one expects them.
 
-In my free time, I play games, watch anime, and laugh at IT memes. Also, I'm absolutely obsessed with ferrets — they're my spirit animals! 🦦
+In my free time, I play games and watch films. Also, I'm absolutely obsessed with ferrets — they're my spirit animals! 🦦
 
 ---
 
