@@ -34,8 +34,11 @@ In my free time, I play games and watch films. Also, I'm absolutely obsessed wit
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[LaptopHub](https://github.com/interiys/Website)** | 🛒 Online laptop store (my coursework) | PHP, MySQL, JS, CSS |
+| **[LaptopHub](https://github.com/interiys/Website)** | 🛒 Online laptop store (coursework) | PHP, MySQL, JS, CSS |
 | **[ML Projects](https://github.com/interiys/Machine-learning)** | 🤖 Machine learning homework | Python, Jupyter, NumPy, Pandas |
+| **[APMC](https://github.com/interiys/APMC)** | 🏭 Desktop app for warehouse management (internship project) | C#, WPF, SQL Server, Entity Framework |
+| **[CodeWars](https://github.com/interiys/CodeWars)** | 🧩 Passing the CodeWars tests | Java |
+| **[Visual Basic Application](https://github.com/interiys/Visual-Basic-Application)** | 📦 VBA project calculator | VBA |
 
 > ### 🔥 More coming soon! I learn and practice every day.
 
