@@ -1,6 +1,9 @@
-# 👋 Hey there! I'm Denis
+Sit down, traveler, and calm down... Let's have a beer and just talk about the endless meaning of life...
+<p align="center">
+  <img width="1010" height="480" alt="286b8dac-3d7d-4250-aa91-a5d29ffbcdb1-profile_banner-480" src="https://github.com/user-attachments/assets/ea287372-2601-4b81-8aa8-4c1d05f712ba" />
+</p>
 
-## 🐞 Future QA/QC Engineer
+# 👋 Hey there! My name is Denis, and I want to become a quality control engineer in the future 🐞
 
 ---
 
@@ -20,6 +23,7 @@ In my free time, I play games and watch films. Also, I'm absolutely obsessed wit
 | **HTML / CSS** | 🟡 Beginner | Build simple pages |
 | **JavaScript** | 🟡 Beginner | Wrote scripts for interactivity |
 | **PHP** | 🟡 Beginner | Built backend for an online store |
+| **VBA** | 🟡 Beginner | Created a calculator interface with Windows Forms in Visual Studio |
 | **Python** | 🟡 Beginner | Wrote simple algorithms |
 | **Java** | 🟡 Beginner | Familiar with syntax |
 | **C# / .NET** | 🟡 Beginner | Tried to figure it out 😅 |
