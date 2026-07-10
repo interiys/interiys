@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Denis
 
-## 🐞 Future QA Engineer
+## 🐞 Future QA/QC Engineer
 
 ---
 
