@@ -60,7 +60,7 @@ In my free time, I play games and watch films. Also, I'm absolutely obsessed wit
 
 ### 🎯 My Goal
 
-**To become a rockstar QA Engineer** who finds bugs even where they don't exist (but they always do).  
+**To become a rockstar QA/QC Engineer** who finds bugs even where they don't exist (but they always do).  
 Right now, I'm learning and practicing on my own and other people's projects. Ready for internships and real tasks!
 
 ---
