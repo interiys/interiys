@@ -3,14 +3,14 @@ Sit down, traveler, and calm down... Let's have a beer and just talk about the e
   <img width="1010" height="480" alt="286b8dac-3d7d-4250-aa91-a5d29ffbcdb1-profile_banner-480" src="https://github.com/user-attachments/assets/ea287372-2601-4b81-8aa8-4c1d05f712ba" />
 </p>
 
-# 👋 Hey there! My name is Denis, and I want to become a quality control engineer in the future 🐞
+# 👋 Hey there! My name is Denis, and I want to become a quality control / quality assurance engineer in the future 🐞
 
 ---
 
 ### 🧑‍💻 Who am I?
 
 I'm Denis, a student who started as a developer but realized that **breaking** things is way more fun than building them! 😈  
-I'm heading into **QA Engineering** to find bugs where no one expects them.
+I'm heading into **QA/QC Engineering** to find bugs where no one expects them.
 
 In my free time, I play games and watch films. Also, I'm absolutely obsessed with ferrets — they're my spirit animals! 🦦
 
