@@ -1,4 +1,5 @@
-Sit down, traveler, and calm down... Let's have a beer and just talk about the endless meaning of life...
+Sit down, traveler, and calm down... Let's have a beer and just talk about the endless meaning of life...<img width="18" height="18" alt="inv_drink_04" src="https://github.com/user-attachments/assets/8b5f5585-e66d-4e17-b13a-c957fdb5e5ac" />
+
 <p align="center">
   <img width="1010" height="480" alt="286b8dac-3d7d-4250-aa91-a5d29ffbcdb1-profile_banner-480" src="https://github.com/user-attachments/assets/ea287372-2601-4b81-8aa8-4c1d05f712ba" />
 </p>
