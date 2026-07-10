@@ -10,10 +10,8 @@ Sit down, traveler, and calm down... Let's have a beer and just talk about the e
 
 ### 🧑‍💻 Who am I?
 
-I'm Denis, a student who started as a developer but realized that **breaking** things is way more fun than building them! 😈  
+🦦I'm Denis, a student who started as a developer but realized that **breaking** things is way more fun than building them! 😈  
 I'm heading into **QA/QC Engineering** to find bugs where no one expects them.
-
-In my free time, I play games and watch films. Also, I'm absolutely obsessed with ferrets — they're my spirit animals! 🦦
 
 ---
 
