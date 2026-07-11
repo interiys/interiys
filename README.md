@@ -16,13 +16,6 @@
 
 ---
 
-### 🧑‍💻 Who am I?
-
-🦦I'm Denis, a student who started as a developer but realized that **breaking** things is way more fun than building them! 😈  
-I'm heading into **QA/QC Engineering** to find bugs where no one expects them.
-
----
-
 ### 🛠️ What I know (a little bit of everything)
 
 | Technology | Level | What I can do |
@@ -48,10 +41,8 @@ I'm heading into **QA/QC Engineering** to find bugs where no one expects them.
 | **[LaptopHub](https://github.com/interiys/Website)** | 🛒 Online laptop store (coursework) | PHP, MySQL, JS, CSS |
 | **[ML Projects](https://github.com/interiys/Machine-learning)** | 🤖 Machine learning homework | Python, Jupyter, NumPy, Pandas |
 | **[APMC](https://github.com/interiys/APMC)** | 🏭 Desktop app for warehouse management (internship project) | C#, WPF, SQL Server, Entity Framework |
-| **[CodeWars](https://github.com/interiys/CodeWars)** | 🧩 Passing the CodeWars tests | Java |
 | **[Visual Basic Application](https://github.com/interiys/Visual-Basic-Application)** | 📦 VBA project calculator | VBA |
-
-> ### 🔥 More coming soon! I learn and practice every day.
+| **[CodeWars](https://github.com/interiys/CodeWars)** | 🧩 Passing the CodeWars tests | Java |
 
 ---
 
@@ -65,13 +56,6 @@ I'm heading into **QA/QC Engineering** to find bugs where no one expects them.
 
 ---
 
-### 🎯 My Goal
-
-**To become a rockstar QA/QC Engineer** who finds bugs even where they don't exist (but they always do).  
-Right now, I'm learning and practicing on my own and other people's projects. Ready for internships and real tasks!
-
----
-
 ### 🦦 Ferret — my spirit guardian
 
 <p align="center">
@@ -79,8 +63,6 @@ Right now, I'm learning and practicing on my own and other people's projects. Re
 </p>
 
 ---
-
-## ⭐ If you're reading this — smash that star on my profile! I'd really appreciate it 😊
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/bcd3a026-39f7-4586-9431-ba971733a917" 
