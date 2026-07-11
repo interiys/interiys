@@ -46,16 +46,6 @@
 
 ---
 
-### 📫 Where to find me
-
-| Platform | Link |
-|:---|:---|
-| **VK** | [@amfetaminoviu](https://vk.com/amfetaminoviu) |
-| **Telegram** | [@injctik](https://t.me/injctik) |
-| **Email** | [denis9033@mail.ru](mailto:denis9033@mail.ru) |
-
----
-
 ### 🦦 Ferret — my spirit guardian
 
 <p align="center">
