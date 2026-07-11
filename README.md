@@ -1,4 +1,12 @@
-Sit down, traveler, and calm down... Let's have a beer and just talk about the endless meaning of life...<img width="18" height="18" alt="inv_drink_04" src="https://github.com/user-attachments/assets/8b5f5585-e66d-4e17-b13a-c957fdb5e5ac" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/6bdea7ce-8a94-4fe6-8033-90ead17ed65f" 
+    alt="Airbrush-BG-CHANGER-1783764395074"
+  />
+</p>
+<p align="center">
+  <strong>Sit down, traveler, and calm down... Let's have a beer and just talk about the endless meaning of life...</strong> <img width="20" height="20" alt="inv_drink_04" src="https://github.com/user-attachments/assets/081d5dc4-84cc-4509-9d08-56e08fb2615c" />
+</p>
 
 <p align="center">
   <img width="1010" height="480" alt="286b8dac-3d7d-4250-aa91-a5d29ffbcdb1-profile_banner-480" src="https://github.com/user-attachments/assets/ea287372-2601-4b81-8aa8-4c1d05f712ba" />
@@ -73,3 +81,12 @@ Right now, I'm learning and practicing on my own and other people's projects. Re
 ---
 
 ## ⭐ If you're reading this — smash that star on my profile! I'd really appreciate it 😊
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/bcd3a026-39f7-4586-9431-ba971733a917" 
+    alt="Airbrush-BG-CHANGER-1783764395074"
+    style="transform: scaleY(-1);"
+  />
+</p>
+
+
