@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ What I know (a little bit of everything)
+### What I know (a little bit of everything)
 
 | Technology | Level | What I can do |
 |:---|:---|:---|
@@ -26,7 +26,7 @@
 | **VBA** | 🟡 Beginner | Created a calculator interface with Windows Forms in Visual Studio |
 | **Python** | 🟡 Beginner | Wrote simple algorithms |
 | **Java** | 🟡 Beginner | Familiar with syntax |
-| **C# / .NET** | 🟡 Beginner | Tried to figure it out 😅 |
+| **C# / .NET** | 🟡 Beginner | Tried to figure it out |
 | **Git / GitHub** | 🟡 Beginne | Clone, commit, push — I do it all |
 | **Postman** | 🟡 Beginner | Learning API testing |
 | **DevTools** | 🟡 Beginner | Exploring how to find browser bugs |
@@ -38,11 +38,11 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[LaptopHub](https://github.com/interiys/Website)** | 🛒 Online laptop store (coursework) | PHP, MySQL, JS, CSS |
-| **[ML Projects](https://github.com/interiys/Machine-learning)** | 🤖 Machine learning homework | Python, Jupyter, NumPy, Pandas |
-| **[APMC](https://github.com/interiys/APMC)** | 🏭 Desktop app for warehouse management (internship project) | C#, WPF, SQL Server, Entity Framework |
-| **[Visual Basic Application](https://github.com/interiys/Visual-Basic-Application)** | 📦 VBA project calculator | VBA |
-| **[CodeWars](https://github.com/interiys/CodeWars)** | 🧩 Passing the CodeWars tests | Java |
+| **[LaptopHub](https://github.com/interiys/Website)** | Online laptop store (coursework) | PHP, MySQL, JS, CSS |
+| **[ML Projects](https://github.com/interiys/Machine-learning)** | Machine learning homework | Python, Jupyter, NumPy, Pandas |
+| **[APMC](https://github.com/interiys/APMC)** | Desktop app for warehouse management (internship project) | C#, WPF, SQL Server, Entity Framework |
+| **[Visual Basic Application](https://github.com/interiys/Visual-Basic-Application)** | VBA project calculator | VBA |
+| **[CodeWars](https://github.com/interiys/CodeWars)** | Passing the CodeWars tests | Java |
 
 ---
 
