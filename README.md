@@ -12,7 +12,7 @@
   <img width="1010" height="480" alt="286b8dac-3d7d-4250-aa91-a5d29ffbcdb1-profile_banner-480" src="https://github.com/user-attachments/assets/ea287372-2601-4b81-8aa8-4c1d05f712ba" />
 </p>
 
-# 👋 Hey there! My name is Denis, and I want to become a quality control / quality assurance engineer in the future 🐞
+# Hey there! My name is Denis, and I want to become a quality control / quality assurance engineer in the future 🐞
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 📂 My Projects
+### My Projects
 
 | Project | Description | Stack |
 |:---|:---|:---|
