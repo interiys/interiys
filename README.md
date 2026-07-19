@@ -45,8 +45,6 @@
 | **[TelegramBot](https://github.com/interiys/telegrambot)** | Telegram bot for my job | Python |
 | **[CodeWars](https://github.com/interiys/CodeWars)** | Passing the CodeWars tests | Java |
 
-https://github.com/interiys/telegrambot
-
 ---
 
 ### 🦦 Ferret — my spirit guardian
