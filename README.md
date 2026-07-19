@@ -42,7 +42,10 @@
 | **[ML Projects](https://github.com/interiys/Machine-learning)** | Machine learning homework | Python, Jupyter, NumPy, Pandas |
 | **[APMC](https://github.com/interiys/APMC)** | Desktop app for warehouse management (internship project) | C#, WPF, SQL Server, Entity Framework |
 | **[Visual Basic Application](https://github.com/interiys/Visual-Basic-Application)** | VBA project calculator | VBA |
+| **[TelegramBot](https://github.com/interiys/telegrambot)** | Telegram bot gor my job | Python |
 | **[CodeWars](https://github.com/interiys/CodeWars)** | Passing the CodeWars tests | Java |
+
+https://github.com/interiys/telegrambot
 
 ---
 
